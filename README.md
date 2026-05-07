@@ -1,4 +1,4 @@
-Programda şu anda eklediğimiz başlıca özellikler:
+IPTVPlayerPro_Setup_v1.0.1 Programda şu anda eklediğimiz başlıca özellikler:
 <img width="1499" height="813" alt="image" src="https://github.com/user-attachments/assets/0e39548f-7639-4ae9-913b-e81febfc9a4c" />
 
 IPTV / M3U playlist ekleme
@@ -105,69 +105,5 @@ Kaldığın yeri hatırlama
 
 Video kayıt alma
 
-Canlı yayın / M3U8 indirme
 
-MP4 video indirme
-
-İndirme ilerleme penceresi
-
-İndirmeyi arka planda sürdürme
-
-İndirme penceresini tepsiye küçültme
-
-Aktif indirmeleri tekrar gösterme
-
-Kayıt ve indirme klasörü seçimi
-
-Screenshot alma
-
-Screenshot klasörü seçimi
-
-TV Guide / EPG grid ekranı
-
-EPG kaynağı yükleme
-
-Kanal EPG detay penceresi
-
-Catch-up destekli geçmiş yayın açma
-
-Uyku zamanlayıcı
-
-Her zaman üstte modu
-
-Türkçe / İngilizce dil seçimi
-
-Ayarların kalıcı kaydedilmesi
-
-Ebeveyn kilidi
-
-PIN koruması
-
-Kilitli kategori seçimi
-
-Hata raporu penceresi
-
-MPV hata mesajlarını sadeleştirme
-
-Güncelleme kontrolü altyapısı
-
-AppData altında güvenli config/veritabanı kullanımı
-
-Veritabanı ile playlist, kanal, favori, kayıt, EPG ve izleme geçmişi saklama
-
-Koyu/açık temaya uygun arayüz renkleri
-
-Daha düzenli tek satırlı kontrol paneli
-
-Sol panel genişliği sabitlenmiş kanal görünümü
-
-
-Sağ tık ile video indirme
-
-Sağ tık ile favori işlemleri
-
-Sağ tık ile EPG / catch-up işlemleri
-
-
-Download :  https://www.dropbox.com/scl/fi/shu0jf914ngy5yta81ub8/IPTVPlayerPro_Setup_v1.0.2.exe?rlkey=xadixpidb1dwx0casytudaybn&st=9lpo4bl4&dl=0
-
+[Download ](https://www.dropbox.com/scl/fi/kb00v3ub0kry87kuujt2l/IPTVPlayerPro_Setup_v1.0.1.exe?rlkey=wvaomcm9a1ohgsvv92k6m59hk&st=o0wnyscn&dl=0)
