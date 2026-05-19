@@ -168,6 +168,8 @@ Sağ tık ile favori işlemleri
 
 Sağ tık ile EPG / catch-up işlemleri
 
+[Portable İndir:  ](https://www.dropbox.com/scl/fi/smvpacxxdgeqvzclq6y0i/IPTVPlayerPro_portable.rar?rlkey=4rlltcrh534kl7dib74ffya7q&st=83u0qjch&dl=0)
 
-Download :  https://www.dropbox.com/scl/fi/shu0jf914ngy5yta81ub8/IPTVPlayerPro_Setup_v1.0.2.exe?rlkey=xadixpidb1dwx0casytudaybn&st=9lpo4bl4&dl=0
+
+[Download setup indir: ](https://www.dropbox.com/scl/fi/qll9pwuujctdqxw3gyvi0/ingtotr_Setup_V1.4.0.exe?rlkey=qmco3vx1md95n3fh8lqmhhg1e&st=i2aiw8wt&dl=0)
 
