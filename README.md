@@ -1,175 +1,42 @@
-Programda şu anda eklediğimiz başlıca özellikler:
-<img width="1499" height="813" alt="image" src="https://github.com/user-attachments/assets/0e39548f-7639-4ae9-913b-e81febfc9a4c" />
+Merhaba arkadaşlar,
 
-IPTV / M3U playlist ekleme
+Kendi kullanım ihtiyaçlarımdan yola çıkarak geliştirdiğim Kanalixor uygulamasını paylaşmak istiyorum. Kanalixor, IPTV listelerinizi daha düzenli, pratik ve keyifli biçimde kullanabilmeniz için hazırlanmış Windows tabanlı bir IPTV oynatıcı ve kanal yönetim aracıdır.
 
-URL veya dosyadan playlist yükleme
+Uygulama; M3U listelerinizi ekleyip yönetmenize, kanalları kategoriler halinde görüntülemenize, favorilerinizi oluşturmanıza ve yayınları dahili oynatıcı üzerinden izlemenize yardımcı olur. Amacım, karmaşık listelerle uğraşmadan hızlı ve sade bir izleme deneyimi sunmaktı.
 
-Xtream Codes playlist desteği
+Öne Çıkan Özellikler
 
-Playlist seçimi
+M3U / IPTV liste desteği
+Kanal ve kategori bazlı gezinme
+Favori kanal ekleme ve yönetme
+Arama ile kanallara hızlı erişim
+Dahili MPV tabanlı video oynatıcı
+Yayın geçmişi ve kaldığınız yerden devam etme desteği
+Kayıt alma özelliği
+EPG / yayın akışı görüntüleme desteği
+Çoklu ekran ve mini oynatıcı seçenekleri
+Kullanımı kolay, düzenli masaüstü arayüzü
+Kimler İçin Uygun?
 
-Playlist silme
+Kanalixor; kendi yasal IPTV listenizi kullanan, kanallarını tek bir uygulama içinde düzenlemek isteyen ve sade bir Windows oynatıcı arayan kullanıcılar için geliştirilmiştir.
 
-Toplu playlist silme
+Önemli Not
 
-Seçili playlistleri birleştirme
+Kanalixor herhangi bir yayın, kanal listesi veya ücretli içerik sağlamaz. Uygulama yalnızca kullanıcı tarafından eklenen yasal ve kullanım hakkına sahip olunan IPTV/M3U kaynaklarını oynatmak ve yönetmek amacıyla geliştirilmiştir.
 
-Çalışan kanalları yeni listede toplama
+Uygulamanın geliştirme süreci devam ediyor. Kullanım sırasında karşılaştığınız sorunları, önerilerinizi veya eklenmesini istediğiniz özellikleri paylaşırsanız memnun olurum.
 
-Playlist yenileme
+Program Adı: Kanalixor
 
-Seçili playlisti M3U olarak dışa aktarma
+Platform: Windows
+<img width="1496" height="811" alt="Ekran görüntüsü 2026-05-26 182436" src="https://github.com/user-attachments/assets/5f58ec08-dc3a-441e-b180-2c431d044f43" />
+<img width="1500" height="816" alt="Ekran görüntüsü 2026-05-26 182426" src="https://github.com/user-attachments/assets/4ea6fe64-6c1c-477d-92db-e67ffc041126" />
+<img width="1496" height="812" alt="Ekran görüntüsü 2026-05-26 182406" src="https://github.com/user-attachments/assets/e9ee7b95-7961-42dd-be7a-d5e35982a2d5" />
 
-Favorileri M3U olarak kaydetme
 
-Playlist yedekleme
 
-Yedekten geri yükleme
+[Portable İndir:  ](https://www.dropbox.com/scl/fi/ornenh12t5rdms7pcomo2/Kanalixor_Setup_v1.1.3.exe?rlkey=1rdmkenut7awnuxh9euk6kbaw&st=yc7p020t&dl=0)
 
-Kanal listesi ve kategori/grup filtreleme
 
-Sadece seçili playlistin gruplarını gösterme
-
-Kanal arama
-
-Favorilere ekleme/çıkarma
-
-Son izlenenler listesi
-
-Duplicate kanal bulucu
-
-Liste karşılaştırma
-
-M3U otomatik temizleme
-
-Kanal sağlık kontrolü
-
-Açılışta otomatik sağlık kontrolü
-
-Sağlık durumuna göre filtreleme
-
-Çalışmayan kanalları kırmızı gösterme
-
-Çalışan kanalları yeşil gösterme
-
-Çalışmayan kanalları toplu silme
-
-Dahili MPV video oynatıcı
-
-MPV DLL yolu otomatik bulma
-
-Bazı yayınlar açılmazsa yedek link deneme
-
-Harici VLC / MPV ile oynatma seçeneği
-
-Play / Pause / Stop kontrolleri
-
-Ses seviyesi kontrolü
-
-%150 ses yükseltme seçeneği
-
-Sessize alma
-
-Mouse tekerleğiyle videoda 5 saniye ileri/geri sarma
-
-Video ilerleme çubuğu
-
-Video hız seçimi
-
-Görüntü oranı seçimi
-
-Ses parçası seçimi
-
-Altyazı seçimi
-
-Kalite seçimi alanı
-
-Parlaklık ayarı
-
-Kontrast ayarı
-
-Renk/doygunluk ayarı
-
-Tam ekran modu
-
-Tam ekranda otomatik gizlenen kontroller
-
-Mouse panel üzerindeyken kontrollerin kapanmaması
-
-YouTube tarzı alt kontrol çubuğu
-
-Mini oynatıcı / küçük pencere modu
-
-Kaldığın yeri hatırlama
-
-Video kayıt alma
-
-Canlı yayın / M3U8 indirme
-
-MP4 video indirme
-
-İndirme ilerleme penceresi
-
-İndirmeyi arka planda sürdürme
-
-İndirme penceresini tepsiye küçültme
-
-Aktif indirmeleri tekrar gösterme
-
-Kayıt ve indirme klasörü seçimi
-
-Screenshot alma
-
-Screenshot klasörü seçimi
-
-TV Guide / EPG grid ekranı
-
-EPG kaynağı yükleme
-
-Kanal EPG detay penceresi
-
-Catch-up destekli geçmiş yayın açma
-
-Uyku zamanlayıcı
-
-Her zaman üstte modu
-
-Türkçe / İngilizce dil seçimi
-
-Ayarların kalıcı kaydedilmesi
-
-Ebeveyn kilidi
-
-PIN koruması
-
-Kilitli kategori seçimi
-
-Hata raporu penceresi
-
-MPV hata mesajlarını sadeleştirme
-
-Güncelleme kontrolü altyapısı
-
-AppData altında güvenli config/veritabanı kullanımı
-
-Veritabanı ile playlist, kanal, favori, kayıt, EPG ve izleme geçmişi saklama
-
-Koyu/açık temaya uygun arayüz renkleri
-
-Daha düzenli tek satırlı kontrol paneli
-
-Sol panel genişliği sabitlenmiş kanal görünümü
-
-
-Sağ tık ile video indirme
-
-Sağ tık ile favori işlemleri
-
-Sağ tık ile EPG / catch-up işlemleri
-
-[Portable İndir:  ](https://www.dropbox.com/scl/fi/smvpacxxdgeqvzclq6y0i/IPTVPlayerPro_portable.rar?rlkey=4rlltcrh534kl7dib74ffya7q&st=83u0qjch&dl=0)
-
-
-[Download setup indir: ](https://www.dropbox.com/scl/fi/qll9pwuujctdqxw3gyvi0/ingtotr_Setup_V1.4.0.exe?rlkey=qmco3vx1md95n3fh8lqmhhg1e&st=i2aiw8wt&dl=0)
+[Download setup indir: ](https://www.dropbox.com/scl/fi/ornenh12t5rdms7pcomo2/Kanalixor_Setup_v1.1.3.exe?rlkey=1rdmkenut7awnuxh9euk6kbaw&st=yc7p020t&dl=0)
 
