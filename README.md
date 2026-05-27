@@ -35,7 +35,7 @@ Platform: Windows
 
 
 
-[Portable İndir:  ](https://www.dropbox.com/scl/fi/ornenh12t5rdms7pcomo2/Kanalixor_Setup_v1.1.3.exe?rlkey=1rdmkenut7awnuxh9euk6kbaw&st=yc7p020t&dl=0)
+[Portable İndir:  ](https://www.dropbox.com/scl/fi/3w33v490ka2zt3v7nuybz/Kanalixor_Portable_v1.1.3.zip?rlkey=egai5z0yzmrhjy2i2ertuyldy&st=m9rpjerf&dl=0)
 
 
 [Download setup indir: ](https://www.dropbox.com/scl/fi/ornenh12t5rdms7pcomo2/Kanalixor_Setup_v1.1.3.exe?rlkey=1rdmkenut7awnuxh9euk6kbaw&st=yc7p020t&dl=0)
